@@ -3,6 +3,10 @@
 
 Bu proje, MediaPipe ve OpenCV kütüphanelerini kullanarak el hareketleriyle gerçek zamanlı etkileşime girebilen bir "çiçek açtırma" simülasyonudur. Kullanıcı elini açtıkça çiçek büyüme evrelerinden geçer ve gelişir.
 
+[![Bloom Demo](https://img.youtube.com/vi/g9mhC_net3s/0.jpg)](https://www.youtube.com/watch?v=g9mhC_net3s)
+
+
+
 ## Özellikler
 * **Gerçek Zamanlı El Takibi:** MediaPipe Hands modülü ile 21 nokta üzerinde hassas takip.
 * **Etkileşimli Kontrol:** Elin bilek ve parmak ucu arasındaki mesafe (öklid uzaklığı) baz alınarak dinamik seviye kontrolü.
