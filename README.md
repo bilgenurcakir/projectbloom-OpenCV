@@ -3,6 +3,7 @@
 
 Bu proje, MediaPipe ve OpenCV kütüphanelerini kullanarak el hareketleriyle gerçek zamanlı etkileşime girebilen bir "çiçek açtırma" simülasyonudur. Kullanıcı elini açtıkça çiçek büyüme evrelerinden geçer ve gelişir.
 
+### Projeyi Görmek için ⬇️🌸
 [![Bloom Demo](https://img.youtube.com/vi/g9mhC_net3s/0.jpg)](https://www.youtube.com/watch?v=g9mhC_net3s)
 
 
